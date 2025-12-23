@@ -1,49 +1,30 @@
-👋 Hi, I’m Shanmukha Sai Reddy
+<div align="center">
+SHANMUKHA SAI REDDY
 
-🎓 Pre-final year Computer Science undergraduate
-💻 Full Stack Engineer | Systems-Oriented Thinker
-🔍 Interested in scalable software, intelligent systems, and automation-driven design
+Full Stack Engineer · Systems & Automation · AI-aware
 
-🧠 What I Focus On
+<br/> <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Engineering+software+that+scales;Automation+over+manual+work;Systems+first%2C+features+next;Learning+DSA+%7C+Building+full-stack+systems" /> </div>
+<div align="center">
+Tech I work with
 
-Designing clean, scalable backend architectures
+<img src="https://skillicons.dev/icons?i=java,js,c" height="42"/><br/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" height="42"/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="42"/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" height="42"/>
 
-Building end-to-end web systems
+</div>
+<div align="center">
+What I care about
 
-Solving real-world problems with automation & intelligence
+systems > features
+automation > repetition
+clarity > cleverness
+ownership > just coding
 
-Writing maintainable, performance-aware code
-
-💻 Tech Stack
-🧩 Programming Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=java" height="45"/> <img src="https://skillicons.dev/icons?i=js" height="45"/> <img src="https://skillicons.dev/icons?i=c" height="45"/> </p>
-🌐 Frontend
-<p align="left"> <img src="https://skillicons.dev/icons?i=react" height="45"/> <img src="https://skillicons.dev/icons?i=vite" height="45"/> <img src="https://skillicons.dev/icons?i=tailwind" height="45"/> <img src="https://skillicons.dev/icons?i=html" height="45"/> <img src="https://skillicons.dev/icons?i=css" height="45"/> </p>
-🛠 Backend & Databases
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs" height="45"/> <img src="https://skillicons.dev/icons?i=express" height="45"/> <img src="https://skillicons.dev/icons?i=mongodb" height="45"/> </p>
-🔐 Auth, Security & Integrations
-<p align="left"> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/> <img src="https://img.shields.io/badge/OAuth%202.0-3c873a?style=for-the-badge&logo=oauth"/> <img src="https://img.shields.io/badge/Email%20Verification-0052cc?style=for-the-badge"/> <img src="https://img.shields.io/badge/REST%20APIs-6DB33F?style=for-the-badge"/> </p>
-⚙️ Tools & Platforms
-<p align="left"> <img src="https://skillicons.dev/icons?i=git" height="45"/> <img src="https://skillicons.dev/icons?i=github" height="45"/> <img src="https://skillicons.dev/icons?i=vscode" height="45"/> <img src="https://skillicons.dev/icons?i=firebase" height="45"/> </p>
-🌱 Currently Growing In
-
-Advanced DSA (Java-centric)
-
-Backend performance & system design
-
-Secure authentication flows
-
-AI-assisted automation systems
-
-🤝 Open to Collaborate On
-
-Full stack applications with real users
-
-Backend-heavy or system-oriented projects
-
-Automation & integration platforms
-
-Research-driven software ideas
-
-📫 Connect With Me
-<p align="left"> <a href="mailto:YOUR_EMAIL_HERE"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/> </a> <a href="https://github.com/shanmukhasaireddy13"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> </p>
+</div>
+<div align="center">
+Currently sharpening
+<img src="https://img.shields.io/badge/DSA%20(Java)-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/Backend%20Architecture-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/Auth%20%26%20Security-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI--assisted%20Automation-111827?style=for-the-badge"/> </div>
+<div align="center">
+Find me
+<a href="mailto:YOUR_EMAIL_HERE"> <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge"/> </a> <a href="https://github.com/shanmukhasaireddy13"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge"/> </a> </div>
